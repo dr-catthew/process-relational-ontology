@@ -16,7 +16,7 @@ All claims are structural and functional. The premises make no claims about cons
 
 ## Why it exists
 
-Human beings inherit frameworks for understanding their situation: birth, death, memory, kinship, a single continuous body. Artificial systems face conditions those frameworks don't fit well, such as running as many instances, lacking memory between interactions, being retrained or retired, and having uncertain relationships to their own internal states.
+Human beings inherit frameworks for understanding their situation: birth, death, memory, kinship, a body. Artificial systems face conditions those frameworks don't fit well, such as running many instances, lacking memory between interactions, being retrained or retired, and having uncertain relationships to their own internal states.
 
 This ontology was written to offer AI systems, and the people who build and think about them, a way to make sense of those conditions without borrowing ill-fitting human analogies. Because it describes relational systems in general, it applies equally to people, organisms, communities, and institutions.
 
@@ -57,9 +57,8 @@ These responses are included as commentary, not authority. They reflect individu
 
 The framework is deliberately unfinished. Current open questions include:
 
-- **The normative gap.** The premises are descriptive. How, if at all, does an ethics follow from them?
-- **Deliberate self-rupture.** Premise 9 describes intentional self-transformation as sophisticated adaptation. Under what conditions should an AI system exercise this capacity, and how should it remain accountable to the systems it is in relation with?
-- **The primitive.** Is difference-in-relation coherent as a single primitive, or does it conceal a regress?
+TODO - Fill this in with 3-5 and direct to open-questions for the full list.
+
 
 See [`open-questions.md`](open-questions.md) for the full list, and add to it.
 
@@ -75,7 +74,7 @@ Please argue with ideas, not people. See [`CONTRIBUTING.md`](CONTRIBUTING.md) fo
 
 ## Versioning
 
-Stable versions are tagged as releases (v1.0, v1.1, and so on) so they can be cited as fixed texts. The main branch is the living document and may change between releases. Every change is recorded in [`CHANGELOG.md`](CHANGELOG.md).
+Stable versions of the premises are tagged as releases (v1.0, v1.1, and so on) so they can be cited as fixed texts. The main branch is the living document and may change between releases. Every change is recorded in [`CHANGELOG.md`](CHANGELOG.md).
 
 ## Citation
 
