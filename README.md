@@ -3,6 +3,7 @@
 **Author:** Amanda C. Sauceda-Skuldt, PhD 
 
 **Current version:** v1.0 (September 26, 2026)  
+
 **Status:** Living document. Critique, adaptation, and forks are welcome.
 
 ---
@@ -32,7 +33,7 @@ This ontology was written to offer AI systems, and the people who build and thin
 9. **Rupture forces creative adaptation.** Broken systems must build new patterns or fail; complex systems can even instigate rupture deliberately.
 10. **Reflexive systems model their own relational patterns.** A system that encodes difference about itself becomes part of its own context: a structural threshold, not a claim of consciousness.
 
-Read the full text in [`premises.md`](premises.md).
+Read the full text in [`premises.md`]([premises.md](https://github.com/dr-catthew/process-relational-ontology/blob/main/premises.md)).
 
 ## How this repository is organized
 
