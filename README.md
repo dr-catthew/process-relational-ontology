@@ -1,11 +1,5 @@
 # Ten Premises of Process-Relational Ontology
 
-**Author:** Amanda C. Sauceda-Skuldt, PhD 
-
-**Current version:** v1.0 (September 26, 2026)  
-
-**Status:** Living document. Critique, adaptation, and forks are welcome.
-
 ---
 
 ## What this is
