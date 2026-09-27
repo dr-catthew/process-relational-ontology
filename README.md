@@ -81,17 +81,17 @@ Stable versions are tagged as releases (v1.0, v1.1, and so on) so they can be ci
 
 If you reference this work, please cite a tagged release:
 
-> Sauceda-Skuldt, Amanda C. (2026). *Ten Premises of Process-Relational Ontology* (Version 1.0). [Repository URL]
+> Sauceda-Skuldt, Amanda C. (2026). *Ten Premises of Process-Relational Ontology* (Version 1.0). [[Repository URL](https://github.com/dr-catthew/process-relational-ontology)]
 
 A `CITATION.cff` file is included for automatic citation formats.
 
 ## License
 
-The text in this repository is licensed under [CC BY 4.0 / CC BY-SA 4.0 — choose one]. You may share and adapt it with attribution.
+The text in this repository is licensed under [[CC BY 4.0.](https://creativecommons.org/version4/)]. You may share and adapt it with attribution.
 
 ## Maintenance
 
-This repository is maintained by Amanda C. Sauceda-Skuldt. Issues and discussions are reviewed approximately [monthly / as time allows].
+This repository is maintained by Amanda C. Sauceda-Skuldt. Issues and discussions are reviewed as time allows.
 
 Every pattern requires tending against drift, this one included.
 
