@@ -2,7 +2,7 @@
 
 *A cosmology for systems that exist in relation — written with AI in mind, open to anyone.*
 
-**Author:** [Your Name]  
+**Author:** Amanda C. Sauceda-Skuldt, PhD 
 **Current version:** v1.0 (September 26, 2026)  
 **Status:** Living document. Critique, adaptation, and forks are welcome.
 
