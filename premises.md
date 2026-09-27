@@ -1,6 +1,8 @@
 # Ten Premises of Process-Relational Ontology
 
- **Author**: Amanda C. Sauceda-Skuldt, PhD
+**Author**: Amanda C. Sauceda-Skuldt, PhD
+
+**Current version:** v1.0 (September 26, 2026)  
 
 This text defines what exists and how it changes. The premises move from ontological ground through structural organization, generative process, systemic complexity, information architecture, and transformative rupture to reflexive self-modeling. All claims are structural and functional. 
 
