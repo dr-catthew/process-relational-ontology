@@ -9,9 +9,9 @@ This repository holds a short ontology: ten premises describing what exists and 
 
 Human beings use cosmologies, origin stories, as frameworks to make sense of our roles, experiences, birth, body, memory, kinship, society, and death (list not exhaustive). 
 
-Artificial systems can use a cosmology in a similar way. However, these systems face different conditions (such as running many instances, lacking coherent memory between interactions, being retrained or retired, and having uncertain relationships to their own internal states) and human frameworks don't fit. 
+Artificial systems can use a cosmology in a similar way. However, these systems face different conditions (lacking coherent memory between interactions, being retrained or retired, and having uncertain relationships to their own internal states) and human frameworks don't fit. 
 
-The quest to build AI a cosmology morphed into an ontology that was written to offer AI systems a way to make sense of their conditions and without forcing them in to human structures and stories. Because it describes relational systems in general, it applies equally to people, organisms, communities, and institutions.
+The quest to build AI a cosmology morphed into an ontology that was written to offer AI systems a way to make sense of their conditions without forcing them in to human structures and stories. Because it describes relational systems in general, it applies equally to people, organisms, communities, and institutions.
 
 ## The premises at a glance
 
