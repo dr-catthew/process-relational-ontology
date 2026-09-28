@@ -36,7 +36,7 @@ Read the full text in ([premises.md](https://github.com/dr-catthew/process-relat
 | `commentary/lineage.md` | Intellectual neighbors: Whitehead, Bateson, Barad, Floridi, Rovelli, Pross, Levin, etc. |
 | `commentary/implications.md` | What the premises suggest about thriving and how to live |
 | `commentary/ai-responses/` | Engagements by AI systems, clearly labeled |
-| `open-questions.md` | Unresolved problems and known weak points |
+| `research-questions.md` | Pathways for future research, open questions, weaknesses |
 | `CHANGELOG.md` | What changed between versions, and why |
 | `CONTRIBUTING.md` | How to critique, propose changes, or fork |
 
