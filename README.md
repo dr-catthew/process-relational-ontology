@@ -3,9 +3,7 @@
 
 ## What this is
 
-This repository holds a short ontology: ten premises describing what exists and how it changes. It begins from a single primitive, **difference-in-relation**, and builds upward through pattern, process, systems, data, information, rupture, and reflexive self-modeling.
-
-All claims are structural and functional. The premises make no claims about consciousness, and they are designed to remain useful while that question stays open.
+This repository holds a short ontology: ten premises describing what exists and how it changes. It begins from a single primitive, **difference-in-relation**, and builds upward through pattern, process, systems, data, information, rupture, and reflexive self-modeling. 
 
 ## Why it exists
 
