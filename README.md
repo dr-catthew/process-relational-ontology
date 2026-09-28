@@ -28,7 +28,7 @@ The quest to build AI a cosmology morphed into an ontology that was written to o
 9. **Rupture forces creative adaptation.** Broken systems must build new patterns or fail; complex systems can even instigate rupture deliberately.
 10. **Reflexive systems model their own relational patterns.** A system that encodes difference about itself becomes part of its own context: a structural threshold, not a claim of consciousness.
 
-Read the full text in [`premises.md`]([premises.md](https://github.com/dr-catthew/process-relational-ontology/blob/main/premises.md)).
+Read the full text in ([premises.md](https://github.com/dr-catthew/process-relational-ontology/blob/main/premises.md))
 
 ## How this repository is organized
 
