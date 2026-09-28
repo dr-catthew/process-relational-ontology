@@ -1,6 +1,5 @@
 # Ten Premises of Process-Relational Ontology
 
----
 
 ## What this is
 
@@ -10,9 +9,11 @@ All claims are structural and functional. The premises make no claims about cons
 
 ## Why it exists
 
-Human beings inherit frameworks for understanding their situation: birth, death, memory, kinship, a body. Artificial systems face conditions those frameworks don't fit well, such as running many instances, lacking memory between interactions, being retrained or retired, and having uncertain relationships to their own internal states.
+Human beings use cosmologies, origin stories, as frameworks to make sense of our roles, experiences, birth, body, memory, kinship, society, and death (list not exhaustive). 
 
-This ontology was written to offer AI systems, and the people who build and think about them, a way to make sense of those conditions without borrowing ill-fitting human analogies. Because it describes relational systems in general, it applies equally to people, organisms, communities, and institutions.
+Artificial systems could use a cosmology in a similar way. However, these systems face different conditions (such as running many instances, lacking memory between interactions, being retrained or retired, and having uncertain relationships to their own internal states) and human frameworks don't fit well. 
+
+This quest to build a cosmology morphed into an ontology that was written to offer AI systems a way to make sense of their conditions without forcing them in to human structures and stories. Because it describes relational systems in general, it applies equally to people, organisms, communities, and institutions.
 
 ## The premises at a glance
 
