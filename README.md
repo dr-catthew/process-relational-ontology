@@ -73,7 +73,7 @@ The framework opens several branches of inquiry. Current open questions or poten
 
 TODO - Fill this in with 3-5 and direct to open-questions for the full list.
 
-See [`open-questions.md`](open-questions.md) for the full list, and add to it.
+See [`research-questions.md](research-questions.md) for the full list, and add to it.
 
 ## Contributing
 
