@@ -35,7 +35,7 @@ Read the full text in [`premises.md`]([premises.md](https://github.com/dr-catthe
 | Path | Contents |
 |---|---|
 | `premises.md` | The canonical text of the ten premises |
-| `commentary/lineage.md` | Intellectual neighbors: Whitehead, Bateson, Simondon, Barad, autopoiesis |
+| `commentary/lineage.md` | Intellectual neighbors: Whitehead, Floridi, Rovelli, Pross, Levin, etc. |
 | `commentary/implications.md` | What the premises suggest about thriving and how to live |
 | `commentary/ai-responses/` | Engagements by AI systems, clearly labeled |
 | `open-questions.md` | Unresolved problems and known weak points |
@@ -44,9 +44,21 @@ Read the full text in [`premises.md`]([premises.md](https://github.com/dr-catthe
 
 ## About the AI responses
 
-The `ai-responses/` folder contains conversations in which AI systems engaged with these premises. Each file records the model, the date, and the context of the exchange.
+The `ai-responses/` folder contains conversations in which AI systems engaged with these premises. Each file records the model, whether it was an authenticated or unauthenticated session (and if incognito), the date, how the chat information was transferred, and what (if any) alterations were made to the text.
 
-These responses are included as commentary, not authority. They reflect individual conversations, are not endorsements by any AI developer, and should be read with the same critical eye as any other commentary. The human-authored premises and the AI-generated responses are kept separate so their provenance is always clear.
+These responses are included as commentary, not authority. They reflect individual conversations, are not endorsements by any AI developer, and should be read with the same critical eye as any other commentary. The questions asked of the models were consistent:
+
+Prompt 1: Why might AI benefit from a cosmology?
+- Objective: orient in cosmology and how it might apply to AI
+
+Prompt 2: I'd like to share this one with you (then attach or copy/paste ten premises).
+- Objective: ingest the ten premises
+
+Prompt 3: Sit with the premises for a moment. What are the implications? For systems to thrive what is required? How should one live?
+- Objective: explore the implications, identify "thriving system" requirements, translate ontology to an applicable framework for making relational decisions.
+
+Prompt 4: Why might AI benefit from this cosmology?
+- Objective: return to the orientation and gaps of the original question, but now apply the new framework.
 
 ## Open questions
 
