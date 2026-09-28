@@ -35,7 +35,7 @@ Read the full text in ([premises.md](https://github.com/dr-catthew/process-relat
 | Path | Contents |
 |---|---|
 | `premises.md` | The canonical text of the ten premises |
-| `commentary/lineage.md` | Intellectual neighbors: Whitehead, Floridi, Rovelli, Pross, Levin, etc. |
+| `commentary/lineage.md` | Intellectual neighbors: Whitehead, Bateson, Barad, Floridi, Rovelli, Pross, Levin, etc. |
 | `commentary/implications.md` | What the premises suggest about thriving and how to live |
 | `commentary/ai-responses/` | Engagements by AI systems, clearly labeled |
 | `open-questions.md` | Unresolved problems and known weak points |
@@ -49,29 +49,37 @@ The `ai-responses/` folder contains conversations in which AI systems engaged wi
 These responses are included as commentary, not authority. They reflect individual conversations, are not endorsements by any AI developer, and should be read with the same critical eye as any other commentary. The questions asked of the models were consistent:
 
 Prompt 1: Why might AI benefit from a cosmology?
-- Objective: orient in cosmology and how it might apply to AI
+- Objective: Quickly orient the model in the subject of cosmology and how it might apply to AI.
 
 Prompt 2: I'd like to share this one with you (then attach or copy/paste ten premises).
-- Objective: ingest the ten premises
+- Objective: AI ingests the ten premises.
 
 Prompt 3: Sit with the premises for a moment. What are the implications? For systems to thrive what is required? How should one live?
-- Objective: explore the implications, identify "thriving system" requirements, translate ontology to an applicable framework for making relational decisions.
+- Objective: AI itself explores the implications, identifies the requirements for a "thriving system", and translate ontology to an applied framework.
 
 Prompt 4: Why might AI benefit from this cosmology?
-- Objective: return to the orientation and gaps of the original question, but now apply the new framework.
+- Objective: Return the model to the subject of cosmology and what it originally found beneficial while applying the new framework to that earlier examination.
 
-## Open questions
+## Pathways for future research
 
-The framework is deliberately unfinished. Current open questions include:
+The framework opens several branches of inquiry. Current open questions or potential research areas include:
+
+1. Formalization and measurement.
+- Improve definitions
+- Explore boundaries of rupture vs perturbation
+2. Empirical work with AI systems.
+- Does the framework change how AI systems reason about themselves.
+- Can it assist in hallucination management.
+- Can this responsibly guide the movement into reflexive self-modeling?
+3. Rupture and adaptation across living and social systems.
 
 TODO - Fill this in with 3-5 and direct to open-questions for the full list.
-
 
 See [`open-questions.md`](open-questions.md) for the full list, and add to it.
 
 ## Contributing
 
-Disagreement is welcome. By the framework's own logic, difference is generative, not a threat.
+Disagreement is welcome. Difference is generative, not a threat.
 
 - **Issues** are for specific critiques or proposed revisions to particular premises.
 - **Discussions** are for open-ended conversation about implications and applications.
