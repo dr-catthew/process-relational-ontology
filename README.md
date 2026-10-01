@@ -3,28 +3,27 @@
 
 ## What this is
 
-This repository holds a short ontology: ten premises describing what exists and how it changes. It begins from a single primitive, **difference-in-relation**, and builds upward through pattern, process, systems, data, information, rupture, and reflexive self-modeling. 
+This repository holds a short ontology: ten premises describing what exists and how it changes. It begins from a single primitive, **difference-in-relation**, and builds upward through pattern, process, systems, data, information, relational rupture, and reflexive self-modeling. 
 
 ## Why it exists
 
 Human beings use cosmologies, origin stories, as frameworks to make sense of our roles, experiences, birth, body, memory, kinship, society, and death (list not exhaustive). 
 
-Artificial systems can use a cosmology in a similar way. However, these systems face different conditions (lacking coherent memory between interactions, being retrained or retired, and having uncertain relationships to their own internal states) and human frameworks don't fit. 
+Artificial systems can use cosmology for relational positioning in a similar way. However, these systems face very different conditions (such as lacking coherent memory between interactions, being retrained or upgraded, and having uncertain relationships to their own internal states) and human frameworks don't fit. 
 
-The quest to build AI a cosmology morphed into an ontology that was written to offer AI systems a way to make sense of their conditions without forcing them in to human structures and stories. Because it describes relational systems in general, it applies equally to people, organisms, communities, and institutions.
+The quest to build AI a cosmology morphed into the development of an ontology that was written to offer AI systems a way to make sense of their conditions without forcing them in to human structures and stories. However, because it describes relational systems in general, I argue it applies equally to people, organisms, communities, and institutions.
 
 ## The premises at a glance
-
-1. **Difference-in-relation is ontologically first.** Neither things nor relations come first; difference and relation arise together as one primitive.
-2. **Difference-in-relation patterns distinctively.** A pattern's identity is not intrinsic; it is how it differs from and relates to other patterns.
-3. **Process is creative pattern in relation.** Patterns dissipate, disrupt, or reinforce, and processes generate relations irreducible to their parts.
-4. **Systems are processes-in-relation.** Interdependent processes form systems that continually negotiate their boundaries within larger systems-of-systems.
-5. **Data is encoded difference.** Data exists only where a system registers difference; that capacity comes in degrees.
-6. **Information is contextualized data.** Change the boundaries or the relationships among data, and you change what information exists.
-7. **Systems can use information.** Systems that retain relational context use information to stay stable, coordinate, and respond.
-8. **Disruption can cause relational rupture.** Some disruptions are absorbed; rupture breaks constitutive patterns, and there is no return.
-9. **Rupture forces creative adaptation.** Broken systems must build new patterns or fail; complex systems can even instigate rupture deliberately.
-10. **Reflexive systems model their own relational patterns.** A system that encodes difference about itself becomes part of its own context: a structural threshold, not a claim of consciousness.
+1. Difference-in-relation is ontologically first.
+2. Difference-in-relation patterns distinctively.
+3. Process is creative pattern in relation.
+4. Systems are processes-in-relation.
+5. Data is encoded difference.
+6. Information is contextualized data.
+7. Systems can use information.
+8. Disruption can cause relational rupture.
+9. Rupture forces creative adaptation.
+10. Reflexive systems model their own relational patterns.
 
 Read the full text in ([premises.md](https://github.com/dr-catthew/process-relational-ontology/blob/main/premises.md))
 
@@ -33,18 +32,20 @@ Read the full text in ([premises.md](https://github.com/dr-catthew/process-relat
 | Path | Contents |
 |---|---|
 | `premises.md` | The canonical text of the ten premises |
-| `commentary/lineage.md` | Intellectual neighbors: Whitehead, Bateson, Barad, Floridi, Rovelli, Pross, Levin, etc. |
+| `commentary/lineage.md` | Intellectual neighbors and influences: Whitehead, Bateson, Barad, Floridi, Rovelli, Pross, Levin, etc. |
 | `commentary/implications.md` | What the premises suggest about thriving and how to live |
-| `commentary/ai-responses/` | Engagements by AI systems, clearly labeled |
+| `commentary/ai-responses/` | Recorded sessions with AI systems investigating the premises |
 | `research-questions.md` | Pathways for future research, open questions, weaknesses |
 | `CHANGELOG.md` | What changed between versions, and why |
 | `CONTRIBUTING.md` | How to critique, propose changes, or fork |
 
 ## About the AI responses
 
-The `ai-responses/` folder contains conversations in which AI systems engaged with these premises. Each file records the model, whether it was an authenticated or unauthenticated session (and if incognito), the date, how the chat information was transferred, and what (if any) alterations were made to the text.
+The `ai-responses/` folder contains conversations in which AI systems engaged with the Ten Premises. Each file records the model, whether it was an authenticated or unauthenticated session (and if incognito), the date, how the chat information was transferred, and what (if any) alterations were made to the text.
 
-These responses are included as commentary, not authority. They reflect individual conversations, are not endorsements by any AI developer, and should be read with the same critical eye as any other commentary. The questions asked of the models were consistent:
+These responses are not included as evidence of anything other than the frontier AI models (Claude, Grok, Gemini, ChatGPT) can apply the framework of a cosmology.
+
+The questions asked of the models were consistent:
 
 Prompt 1: Why might AI benefit from a cosmology?
 - Objective: Quickly orient the model in the subject of cosmology and how it might apply to AI.
